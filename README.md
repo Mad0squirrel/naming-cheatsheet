@@ -32,11 +32,11 @@ Use English language when naming your variables and functions.
 ```js
 /* Bad */
 const primerNombre = 'Gustavo'
-const amigos = ['Sergey', 'Maria']
+const amigos = ['Max', 'Amanda']
 
 /* Good */
 const firstName = 'Gustavo'
-const friends = ['Sergey', 'Maria']
+const friends = ['Max', 'Amanda']
 ```
 
 > Like it or not, English is the dominant language in programming: the syntax of all programming languages is written in English, as well as countless documentations and educational materials. By writing your code in English you dramatically increase its cohesiveness.
